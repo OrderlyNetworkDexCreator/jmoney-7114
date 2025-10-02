@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/Jmoney20240818",
   "VITE_SEO_SITE_NAME": "金紙幣永續合約 DEX｜JMONEY Perp DEX",
   "VITE_SEO_SITE_DESCRIPTION": "台灣在地文化 x 區塊鏈結合！金紙幣打造全新永續合約去中心化交易所，虎爺保佑、交易安心，快來體驗 Web3 財神降臨的力量！",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/jmoney-7114/",
+  "VITE_SEO_SITE_URL": "https://dex.taiwanjmoney.com",
   "VITE_SEO_SITE_LANGUAGE": "zh",
   "VITE_SEO_SITE_LOCALE": "zh_TW",
   "VITE_SEO_TWITTER_HANDLE": "@Jmoney20240818",
