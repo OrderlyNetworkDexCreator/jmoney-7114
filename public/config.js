@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "金紙幣, 虎爺, 去中心化交易所, DEX, 區塊鏈, 永續合約, 虛擬貨幣, 加密貨幣, 台灣幣圈, Web3, Solana, 加密貨幣交易, 台灣神明, 虎爺加密貨幣, 金紙文化, DeFi, JMoney交易所",
   "VITE_AVAILABLE_LANGUAGES": "zh,en,ja,ko",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "8",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
