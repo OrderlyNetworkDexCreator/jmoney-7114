@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "台灣在地文化 x 區塊鏈結合！金紙幣打造全新永續合約去中心化交易所，虎爺保佑、交易安心，快來體驗 Web3 財神降臨的力量！",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Swap,Trading,Markets,Portfolio,Leaderboard,Rewards,Points,Vaults",
+  "VITE_ENABLED_MENUS": "Swap,Trading,Markets,Portfolio,Leaderboard,Rewards,Points,Vaults,Campaigns",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "true",
